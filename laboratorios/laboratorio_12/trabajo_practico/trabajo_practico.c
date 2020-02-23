@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : Laboratorio12_TrabajoPractico.c
- Author      : JoseAlberto
+ Author      : Leonel
  Version     :
  Copyright   : Your copyright notice
  Description : Calculo de la determinante de una matriz paralelizado con OpenMP
